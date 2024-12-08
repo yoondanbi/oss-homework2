@@ -1,15 +1,3 @@
-# .gitignore
- 
-# Java class files
-*.class
+This is README file.
 
-# Executable files
-*.exe
-
-# Object and archive files
-# Can use regular expression, e.g., [oa] matches either o or a
-*.[oa]
-
-# temp sub-directory (ended with a directory separator)
-temp/
-
+Author's email: yoondb1128@naver.com
